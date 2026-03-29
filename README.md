@@ -70,13 +70,15 @@ Ends the program with a goodbye message
 3) No password hiding (visible input)
 4) No input validation
 5) Error message does not distinguish between wrong username/password
-6) Future Improvements
-7) File handling for saving user data
-8) Password masking (hidden input)
-9) Multiple user accounts
-10) Input validation
-11) Retry limit for login attempts
-12) GUI-based version
+ 
+ Future Improvements:
+ 
+1) File handling for saving user data
+2) Password masking (hidden input)
+3) Multiple user accounts
+4) Input validation
+5) Retry limit for login attempts
+6) GUI-based version
 
  Author:
 
