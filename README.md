@@ -30,9 +30,9 @@ simple-login-system/
 
 When you run the program, you will see:
 
-Registration
-Login
-Exit
+1)Registration
+2)Login
+3)Exit
 
  Registration:
 User enters a username and password
