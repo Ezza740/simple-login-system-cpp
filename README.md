@@ -1,5 +1,7 @@
 Simple Login System (C++)
 
+A beginner-friendly C++ project demonstrating user registration and login functionality using basic programming concepts.
+
  Overview:
 
 This project is a basic console-based login and registration system built using C++. It allows users to create a username and password, and then log in using the same credentials.
