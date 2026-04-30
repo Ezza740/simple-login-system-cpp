@@ -1,4 +1,4 @@
-Simple Login System (C++)
+9Simple Login System (C++)
 
 
 A beginner-friendly C++ project demonstrating user registration and login functionality using basic programming concepts.
@@ -86,6 +86,6 @@ Ends the program with a goodbye message
  Author:
 
 EZZA SAEED
-GitHub: https://github.com/Ezza740
+GitHub: https://github.com/EzzaSaeed
 
 
